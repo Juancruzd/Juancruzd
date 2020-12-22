@@ -17,10 +17,7 @@ Desktop | Web | Mobile
 </a>
 <a href="https://github.com/Juancruzd">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>
-<a href="https://t.me/LGsus">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-</a>
+</a> 
 <a href="https://www.instagram.com/juanddcruz/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a> 
