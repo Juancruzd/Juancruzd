@@ -1,16 +1,32 @@
-### Hi there 👋
+# Estudiante de ISSC.
 
-<!--
-**Juancruzd/Juancruzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desktop | Web | Mobile
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi...
+
+- Soy Desarrollador de software, diseño aplicaciones web, android entre otras cosas mas. 
+
+## Donde encontrarme: 
+
+<a href="https://twitter.com/JuandeDiosCruz_">
+  <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/juan-de-dios-guadalupe-cruz-delgado/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Juancruzd">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="https://t.me/LGsus">
+  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
+</a>
+<a href="https://www.instagram.com/juanddcruz/">
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+</a> 
+<a href="mailto:juancruzd1@outlook.es">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+<a href="https://www.facebook.com/juandediosguadalupecruzdelgado/">
+  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a> 
