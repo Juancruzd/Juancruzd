@@ -9,8 +9,8 @@
 
 - 🔭 &nbsp;&nbsp; Actualmente estoy trabajando en [Perfilados Android app](https://play.google.com/store/apps/details?id=com.perfilados).
 - 🌱 &nbsp;&nbsp; Actualmente estoy tratando de aprender [Android](https://developer.android.com/). 
-- 📫 How to reach me **juan.cruzd1@outlook.es**
-- ⚡ Dato curioso: paso casi 2 horas navegando en Internet todos los días. ¡Me encanta mantenerme actualizado!
+- 📫 Como llegar a mi **juan.cruzd1@outlook.es**
+- ⚡ Dato curioso: paso casi 2 horas navegando en Internet todos los días. ¡Me encanta mantenerme actualizado!<img src="code1.gif" width=100px;>
 
 ### Yo en Internet:
 
