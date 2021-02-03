@@ -11,7 +11,7 @@
 - 🌱 &nbsp;&nbsp; Actualmente estoy tratando de aprender [Android](https://developer.android.com/). 
 - 📫 Como llegar a mi **juan.cruzd1@outlook.es**
 - ⚡ Dato curioso: paso casi 2 horas navegando en Internet todos los días. ¡Me encanta mantenerme actualizado!
-<img src="code1.gif" width=100px;>
+ 
 
 ### Yo en Internet:
 
