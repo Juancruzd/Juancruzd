@@ -7,13 +7,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Juancruzd&color=brightgreen&style=flat)
 
-- 🔭 &nbsp;&nbsp; I’m currently working on [Sell.Do Android app](https://play.google.com/store/apps/details?id=com.amura.selldo).
-- 🌱 &nbsp;&nbsp; I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose).
-- 💬 &nbsp;&nbsp; Ask me about Android and Flutter.
-- 📫 How to reach me **shashanksinghal02@gmail.com**
-- ⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
+- 🔭 &nbsp;&nbsp; Actualmente estoy trabajando en [Perfilados Android app](https://play.google.com/store/apps/details?id=com.perfilados).
+- 🌱 &nbsp;&nbsp; Actualmente estoy tratando de aprender [Android](https://developer.android.com/). 
+- 📫 How to reach me **juan.cruzd1@outlook.es**
+- ⚡ Dato curioso: paso casi 2 horas navegando en Internet todos los días. ¡Me encanta mantenerme actualizado!
 
-### Me on Internet:
+### Yo en Internet:
 
 [<img align="left" alt="shashank02051997.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shashank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
