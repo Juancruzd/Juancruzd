@@ -49,6 +49,6 @@
 [<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />][website]
 
 [website]: Juancruzd.github.io
-[twitter]: https://twitter.com/JuandeDiosCruz_
-[instagram]: https://www.instagram.com/juanddcruz/
+[twitter]: https://twitter.com/Juancruzd1_
+[instagram]: https://www.instagram.com/Juancruzd1_/
 [linkedin]: https://www.linkedin.com/in/juan-de-dios-guadalupe-cruz-delgado/
