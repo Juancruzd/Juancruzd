@@ -1,7 +1,7 @@
-### Hola, Soy [Juan de Dios](https://Juancruzd.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<!--*Soy Desarrollador de software, diseño aplicaciones web, android entre otras cosas mas.*
-
+<!--*### Hola, Soy [Juan de Dios](https://Juancruzd.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+-->
+Soy Desarrollador de software, diseño aplicaciones web, android entre otras cosas mas.*
+<!--
 **Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
