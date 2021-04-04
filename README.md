@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Juancruzd&color=brightgreen&style=flat)
 
-- 🔭 &nbsp;&nbsp; Actualmente estoy trabajando en [Perfilados Android app](https://play.google.com/store/apps/details?id=com.perfilados).
+- 🔭 &nbsp;&nbsp; Actualmente estoy trabajando en [Covid-19 México](https://juancruzd.github.io/mexicovid19/).
 - 🌱 &nbsp;&nbsp; Actualmente estoy tratando de aprender [Android](https://developer.android.com/). 
 - 📫 Como llegar a mi **juan.cruzd1@outlook.es**
 - ⚡ Dato curioso: paso casi 2 horas navegando en Internet todos los días. ¡Me encanta mantenerme actualizado!
