@@ -45,7 +45,7 @@
 <a href="https://www.facebook.com/juancruzd12/"><img src="https://img.shields.io/badge/-@juancruzd12-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
 </p>
 
-### Activity Graph
+### 📈 &nbsp;Activity Graph
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Juancruzd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
