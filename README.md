@@ -1,54 +1,50 @@
-<!--*### Hola, Soy [Juan de Dios](https://Juancruzd.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
--->
-Soy Desarrollador de software, diseño aplicaciones web, android entre otras cosas mas.*
-<!--
-**Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- ## 👋 &nbsp;Hey there! I'm Juancruzd -->
 
-![](https://komarev.com/ghpvc/?username=Juancruzd&color=brightgreen&style=flat)
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;&nbsp; Actualmente estoy trabajando en [Covid-19 México](https://juancruzd.github.io/mexicovid19/).
-- 🌱 &nbsp;&nbsp; Actualmente estoy tratando de aprender [Android](https://developer.android.com/). 
-- 📫 Como llegar a mi **juan.cruzd1@outlook.es**
-- ⚡ Dato curioso: paso casi 2 horas navegando en Internet todos los días. ¡Me encanta mantenerme actualizado!
- 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-### Yo en Internet:
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Juancruzd/Juancruzd/master/assets/Night-Coding.gif" align="right"/>
 
-[<img align="left" alt="Juancruzd.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shashank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shashank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shashank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🛠 &nbsp;Tech Stack
 
-<br />
-<br />
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+### ⚙️ &nbsp;GitHub Analytics
 
-## &#x1f4c8; Estadísticas de GitHub
-
-<a href="https://github.com/Juancruzd/Juancruzd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juancruzd&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<p align="center">
+<a href="https://github.com/Juancruzd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Juancruzd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juancruzd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/Juancruzd/Juancruzd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juancruzd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juancruzd Estadísticas de GitHub" />
-</a>
+</p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
-### Pila de tecnología:
-
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][website]
-[<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />][website]
-
-[website]: Juancruzd.github.io
-[twitter]: https://twitter.com/Juancruzd1_
-[instagram]: https://www.instagram.com/Juancruzd1_/
-[linkedin]: https://www.linkedin.com/in/juan-de-dios-guadalupe-cruz-delgado/
+<p align="center"> 
+<a href="https://linkedin.com/in/juan-de-dios-guadalupe-cruz-delgado"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:juandediosguadalupecruz@gmail.com"><img src="https://img.shields.io/badge/-juandediosguadalupecruz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/Juancruzd1_/"><img src="https://img.shields.io/badge/-Juancruzd1___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
